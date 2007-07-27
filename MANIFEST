@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Stack-Presistent.t
+lib/Stack/Presistent.pm
+META.yml                                 Module meta-data (added by MakeMaker)

@@ -1,0 +1,6 @@
+Revision history for Perl extension Stack::Presistent.
+
+0.01  Fri Apr 27 09:21:26 2007
+	- original version; created by h2xs 1.23 with options
+		-AXc -n Stack::Presistent
+
